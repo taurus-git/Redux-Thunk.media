@@ -22,8 +22,8 @@ function UsersListItem( { user } ) {
     </>
 
     return (
-        <ExpandablePanel header={header}>
-            <AlbumsList user={user}/>
+        <ExpandablePanel header={ header }>
+            <AlbumsList user={ user }/>
         </ExpandablePanel>
     );
 }

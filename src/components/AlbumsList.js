@@ -1,8 +1,8 @@
 import React from 'react';
 
-function AlbumsList( {user} ) {
+function AlbumsList( { user } ) {
     return <div>
-        Albums for {user.name}
+        Albums for { user.name }
     </div>;
 }
 
