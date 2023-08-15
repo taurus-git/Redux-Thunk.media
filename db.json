@@ -1,14 +1,66 @@
 {
   "users": [
     {
-      "name": "Lorraine Kuphal",
-      "id": 2
+      "name": "Velma Green I",
+      "id": 1
     },
     {
-      "name": "Francis Heller",
-      "id": 3
+      "name": "Hazel Swaniawski",
+      "id": 2
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Licensed Granite Ball",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Granite Chair",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Rubber Soap",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Soft Ball",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Concrete Pizza",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Intelligent Wooden Table",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1946341943017472",
+      "id": 1
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7105619282624512",
+      "id": 3
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6069577836396544",
+      "id": 4
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4335690636591104",
+      "id": 5
+    }
+  ]
 }
